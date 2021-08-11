@@ -1,2 +1,2 @@
 # hello-world
-Just repository
+Прива
